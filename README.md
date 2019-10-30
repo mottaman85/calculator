@@ -1,5 +1,8 @@
 Calculator.js: a node.js Demonstration Project
 ==============================================
+
+[![Build Status](https://readymindit.visualstudio.com/Vinte/_apis/build/status/mottaman85.calculator?branchName=master)](https://readymindit.visualstudio.com/Vinte/_build/latest?definitionId=3&branchName=master)
+
 An example node.js project, including tests with mocha, that behaves like
 a pocket calculator.
 
